@@ -14,22 +14,14 @@ Este es un proyecto elaborado para la materia de Taller de desarrollo III en cua
 
 Inserta capturas de pantalla o gráficos que muestren tu proyecto en acción.
 
-## Instalación
-
-Proporciona pasos claros y concisos para instalar tu proyecto. Puedes incluir ejemplos de código o comandos que los usuarios deben ejecutar.
-
-```bash
-npm install
-```
-
 ## Uso
 
 Explica cómo utilizar tu proyecto. Proporciona ejemplos de código, comandos o incluso capturas de pantalla para guiar a los usuarios.
 
 ```javascript
 // Ejemplo de código
-const ejemplo = "Hola, mundo!";
-console.log(ejemplo);
+const loverwin = "Hola, mundo!";
+console.log(loverwin);
 ```
 
 ## Contribución
@@ -45,4 +37,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 - Enlace del Proyecto: [https://github.com/Lowinsan/Cinepolidts](https://github.com/Cinepolidts/Cinepolidts)
 ```
 
-Recuerda personalizar la información según tu proyecto. ¡Espero que sea de ayuda!
+0101010101010101010101010101010101010101010101010101010101!
